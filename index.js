@@ -37,23 +37,23 @@ app.get('/invite', async (req, res) => {
 });
 
 app.get('/github', async (req, res) => {
-    res.redirect(`https://github.com/diwasatreya`)
+    res.redirect(`https://github.com/PatentGuy`)
 });
 
 app.get('/git', async (req, res) => {
-    res.redirect(`https://github.com/diwasatreya`)
+    res.redirect(`https://github.com/PatentGuy`)
 });
 
 app.get('/instagram', async (req, res) => {
-    res.redirect(`https://www.instagram.com/atreyadiwas/`)
+    res.redirect(`https://www.instagram.com/niv_z_ed/`)
 });
 
 app.get('/ig', async (req, res) => {
-    res.redirect(`https://www.instagram.com/atreyadiwas/`)
+    res.redirect(`https://www.instagram.com/niv_z_ed/`)
 });
 
 app.get('/twitter', async (req, res) => {
-    res.redirect(`https://www.instagram.com/atreyadiwas/`)
+    res.redirect(`https://www.instagram.com/niv_z_ed/`)
 });
 
 app.get('/reddit', async (req, res) => {
