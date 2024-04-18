@@ -8,7 +8,7 @@
 
 
 ### Replit
-[![image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png)](https://repl.it/github/PatentGuyy/Kachua-Shet)
+[![image](https://s4.ezgif.com/tmp/ezgif-4-058f92b8b1.png)](https://repl.it/github/PatentGuyy/Kachua-Shet)
 
 ## Configration
 
