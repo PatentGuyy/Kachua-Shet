@@ -1,6 +1,4 @@
 # Information
-
-- Watch the video carefully for instalizaion
 - You can read the `README.md` file for configration
 - This code can be made any anyone who is poor in coding
 - If any coding help need then open the issue [ Dont ask coding help of this code in server ]
